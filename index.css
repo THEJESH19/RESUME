@@ -47,7 +47,7 @@ a{
   .profile{
     width: 100%;
     height: auto;
-    background:blue;
+    background: #24478f;
     margin: 2%;
     padding:1%;
     border: 2px solid brown;
@@ -98,7 +98,7 @@ a{
     .profile{
       width: 100%;
       height: auto;
-      background:red;
+      background: #8600b3;
       margin: 2%;
       padding:1%;
       border: 2px solid brown;
