@@ -5,18 +5,40 @@
   "education":[
     {
       "degree":"SSC",
-      "school":"SCHOOL NAME",
+      "school":"UNIVERSAL SCHOOL",
       "data":["2005","80%"]
     },
     {
       "degree":"INTERMEDIATE",
-      "school":"COLLEGE NAME",
+      "school":"MURLIRAOS JUNIOR COLLEGE",
       "data":["2007","80%"]
     },
     {
       "degree":"GRADUATION",
-      "school":"COLLEGE NAME",
+      "school":"SREE VIDYANIKETAN ENGINEERING COLLEGE",
       "data":["2011","80%"]
     }
+  ],
+  "skills":[
+    {
+      "name":"operating system",
+      "info":["windows","linux ubuntu"]
+      },
+      {
+        "name":"Languages",
+        "info":["c","c++","java"]
+        },
+        {
+          "name":"Databases",
+          "info":["Oracle","MySql","mongoDB"]
+          },
+          {
+            "name":"Web technologies",
+            "info":["Html","CSS","javascript","jQuery"]
+          },
+          {
+            "name":"frameworks",
+            "info":["Bootstrap"]
+          }
   ]
 }
